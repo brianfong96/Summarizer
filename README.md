@@ -1,0 +1,2 @@
+# Summarizer
+Summarizes text files
